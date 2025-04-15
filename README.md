@@ -1,16 +1,18 @@
-# Assignment 4 start
-To get a shared booklist for a book club
+# Final exam start
+To get a shared grocery listy for a group of housemates
 
-The booklist from the previous in class assignment saved the books in local storage. In this assignment we will modify the provided code to save the booklist on firebase.
+The booklist from assignment 4 had a title and author field. In this assignment you will just need an item field. Assume that the items will be deleted once grocery shopping is complete as a way of making sure that everything was taken care of.
+
+Make sure that you can't add a blank item to the grocery list. Also make sure that you can't add the same item twice.
 
 ## Marking
 
 |Item|Out Of|
 |--|--:|
-|make a firebase.js with your own credentials |2|
+|make a firebase.js with your own credentials and a new project |2|
 |get the sample app working with it, and include a screenshot of your firestore database|2|
-|add a field for author |4|
+|make sure that you can't add a blank item |1|
 |successfully deploy on firebase hosting|2|
-|bonus - make updates from different browsers show in real time|1|
+|make sure that you can't add the same item twice|3|
 |||
-|total|11|
+|total|10|
